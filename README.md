@@ -3,7 +3,8 @@ Proccess to (re)learn how to use photoshop during Summer
 
 This repository has:
 - Things I did to remember and improve my Photoshop skills, mainly edits of Ice Hockey teams
-  Teams:
+
+   Teams:
   - Belfast Giants (UK)
   - Lukko Rauma (Finland)
   - Tappara Tampere (Finland)
