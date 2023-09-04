@@ -1,2 +1,2 @@
-# PS_FUN
+# Photoshop FUN
 Trying to (re)learn how to use photoshop
