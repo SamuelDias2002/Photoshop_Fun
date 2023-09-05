@@ -17,9 +17,10 @@ This repository has:
 - Some photo edits of places I was during the summer, using Camera Raw filters (basically, a mini version of Lightroom)
 
   Places:
-      - Gondomar
-      - Aveiro
-      - More (Later)
+
+  - Gondomar
+  - Aveiro
+  -  More (Later)
 
 Warning:
 - Don't expect anything incredible here, just some basic things using images from google images and some textures, smokes and lightning that I had already saved in other PSD files, some made by me in Illustrator, others downloaded somewhere on the internet
