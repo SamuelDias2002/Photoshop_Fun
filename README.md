@@ -15,7 +15,8 @@ This repository has:
 
 
 - Some photo edits of places I was during the summer, using Camera Raw filters (basically, a mini version of Lightroom)
-      Places:
+
+  Places:
       - Gondomar
       - Aveiro
       - More (Later)
