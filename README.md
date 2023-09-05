@@ -9,9 +9,16 @@ This repository has:
   - Lukko Rauma (Finland)
   - Tappara Tampere (Finland)
   - Slovan Bratislava (Slovakia)
+  - Skellefteå (Sweden)
   - Las Vegas Knights (USA - NHL) -> Adin Hill big save 
-    
+  - And more (Later)
 
+
+- Some photo edits of places I was during the summer, using Camera Raw filters (basically, a mini version of Lightroom)
+      Places:
+      - Gondomar
+      - Aveiro
+      - More (Later)
 
 Warning:
 - Don't expect anything incredible here, just some basic things using images from google images and some textures, smokes and lightning that I had already saved in other PSD files, some made by me in Illustrator, others downloaded somewhere on the internet
