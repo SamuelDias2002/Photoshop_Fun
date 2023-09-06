@@ -10,6 +10,7 @@ This repository has:
   - Tappara Tampere (Finland)
   - Slovan Bratislava (Slovakia)
   - Skellefteå (Sweden)
+  - Red Bull München (Germany)
   - Las Vegas Knights (USA - NHL) -> Adin Hill big save 
   - And more (Later)
 
@@ -20,6 +21,7 @@ This repository has:
 
   - Gondomar
   - Aveiro
+  - Porto (Beach)
   -  More (Later)
 
 Warning:
