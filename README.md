@@ -2,9 +2,9 @@
 Proccess to (re)learn how to use photoshop during Summer
 
 This repository has:
-- Things I did to remember and improve my Photoshop skills, mainly edits of Ice Hockey teams
+- Things I did to remember and improve my Photoshop skills, mainly edits of Ice Hockey and NFL teams
 
-   Teams:
+   Hockey Teams:
   - Belfast Giants (UK)
   - Lukko Rauma (Finland)
   - Tappara Tampere (Finland)
@@ -13,7 +13,9 @@ This repository has:
   - Red Bull München (Germany)
   - Las Vegas Knights (USA - NHL) -> Adin Hill big save 
   - And more (Later)
-
+  
+  NFL Teams:
+  - Detroit Lions 
 
 - Some photo edits of places I was during the summer, using Camera Raw filters (basically, a mini version of Lightroom)
 
@@ -22,7 +24,9 @@ This repository has:
   - Gondomar
   - Aveiro
   - Porto (Beach)
+  - Linhares da Serra
   -  More (Later)
+
 
 Warning:
 - Don't expect anything incredible here, just some basic things using images from google images and some textures, smokes and lightning that I had already saved in other PSD files, some made by me in Illustrator, others downloaded somewhere on the internet
