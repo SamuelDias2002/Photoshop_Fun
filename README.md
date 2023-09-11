@@ -16,6 +16,7 @@ This repository has:
   
   NFL Teams:
   - Detroit Lions 
+  - Cincinnati Bengals
 
 - Some photo edits of places I was during the summer, using Camera Raw filters (basically, a mini version of Lightroom)
 
@@ -25,7 +26,9 @@ This repository has:
   - Aveiro
   - Porto (Beach)
   - Linhares da Serra
-  -  More (Later)
+  - Porto (Douro)
+  - Ducks :D
+  - More (Later)
 
 
 Warning:
