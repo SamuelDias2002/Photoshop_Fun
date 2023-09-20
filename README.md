@@ -38,4 +38,8 @@ Warning:
 - The other PSD files can be found [HERE](https://mega.nz/file/41wgVTSS#tQZ4rbxwDqd5wP9wPfQ1YFQfNNq3WUP6n388W-msCU0)
 
 
-![HAVE FUN](https://www.getyarn.io/yarn-clip/d206d36b-acb0-4086-a3f1-eb33c52fb616/gif)
+
+<img src="https://media.giphy.com/media/kaIUUV15xgvpiKJ8K6/giphy.gif" width="300">
+
+
+
