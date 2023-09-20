@@ -39,7 +39,7 @@ Warning:
 
 
 
-<img src="https://media.giphy.com/media/kaIUUV15xgvpiKJ8K6/giphy.gif" width="300">
+<img src="https://media.giphy.com/media/kaIUUV15xgvpiKJ8K6/giphy.gif" width="300" margin-left ="500">
 
 
 
