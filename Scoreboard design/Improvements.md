@@ -18,5 +18,5 @@ Extended version:
 
 
 # Main problem(s):
-- Finding a full HD image from a TV cam  without score, so I can be able to test if the scoreboard has every aspect visible to everyone - Only will be able to make improvements if this is solved  (It shouldn't be that hard, it must be me searching in the wrong sites)
+- Finding a full HD image from a TV cam without an actual scoreboard, so I can be able to test if the scoreboard has every aspect visible to everyone - Only will be able to make improvements if this is solved  (It shouldn't be that hard, it must be me searching in the wrong sites)
 
