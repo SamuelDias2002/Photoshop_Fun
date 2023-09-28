@@ -12,6 +12,7 @@ This repository has:
   - Skellefteå (Sweden)
   - Red Bull München (Germany)
   - Las Vegas Knights (USA - NHL) -> Adin Hill big save 
+  - Ilves (Finland)
   - And more (Later)
   
   NFL Teams:
